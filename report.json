@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T09:53:52-06:00",
+ "bootstrap": true,
+ "feeds": [
+  {
+   "feed": "ACS Applied Materials & Interfaces",
+   "url": "https://pubs.acs.org/rss/aamick/asap.xml",
+   "http": 200,
+   "items_in_feed": 23,
+   "new": 23,
+   "status": "ok"
+  },
+  {
+   "feed": "Macromocules",
+   "url": "https://pubs.acs.org/rss/mamobx/asap.xml",
+   "http": 200,
+   "items_in_feed": 13,
+   "new": 4,
+   "status": "ok"
+  },
+  {
+   "feed": "Macro Letters",
+   "url": "https://pubs.acs.org/rss/amlccd/asap.xml",
+   "http": 200,
+   "items_in_feed": 2,
+   "new": 1,
+   "status": "ok"
+  },
+  {
+   "feed": "Advanced Materials",
+   "url": "https://advanced.onlinelibrary.wiley.com/feed/15214095/most-recent",
+   "http": 200,
+   "items_in_feed": 311,
+   "new": 125,
+   "status": "ok"
+  },
+  {
+   "feed": "Advanced Functional materials",
+   "url": "https://advanced.onlinelibrary.wiley.com/feed/16163028/most-recent",
+   "http": 200,
+   "items_in_feed": 379,
+   "new": 213,
+   "status": "ok"
+  },
+  {
+   "feed": "Matter",
+   "url": "https://rss.sciencedirect.com/publication/science/25902385",
+   "http": 200,
+   "items_in_feed": 75,
+   "new": 0,
+   "status": "ok"
+  },
+  {
+   "feed": "Materials Today",
+   "url": "https://rss.sciencedirect.com/publication/science/13697021",
+   "http": 200,
+   "items_in_feed": 28,
+   "new": 0,
+   "status": "ok"
+  },
+  {
+   "feed": "Matter",
+   "url": "https://www.cell.com/matter/current.rss",
+   "http": 200,
+   "items_in_feed": 26,
+   "new": 0,
+   "status": "ok"
+  },
+  {
+   "feed": "Materials Horizons",
+   "url": "http://feeds.rsc.org/rss/mh",
+   "http": 200,
+   "items_in_feed": 100,
+   "new": 0,
+   "status": "ok"
+  },
+  {
+   "feed": "JACS",
+   "url": "https://pubs.acs.org/rss/jacsat/asap.xml",
+   "http": 200,
+   "items_in_feed": 16,
+   "new": 16,
+   "status": "ok"
+  },
+  {
+   "feed": "Angewandte Chemie",
+   "url": "https://onlinelibrary.wiley.com/feed/15213773/most-recent",
+   "http": 200,
+   "items_in_feed": 231,
+   "new": 194,
+   "status": "ok"
+  },
+  {
+   "feed": "PNAS-Chemistry",
+   "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=chem",
+   "http": 200,
+   "items_in_feed": 29,
+   "new": 2,
+   "status": "ok"
+  },
+  {
+   "feed": "PNAS-Applied Physical Science",
+   "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=app-phys",
+   "http": 200,
+   "items_in_feed": 25,
+   "new": 3,
+   "status": "ok"
+  },
+  {
+   "feed": "PNAS-Engineering",
+   "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=eng",
+   "http": 200,
+   "items_in_feed": 23,
+   "new": 1,
+   "status": "ok"
+  },
+  {
+   "feed": "Small",
+   "url": "https://onlinelibrary.wiley.com/feed/16136829/most-recent",
+   "http": 200,
+   "items_in_feed": 316,
+   "new": 119,
+   "status": "ok"
+  },
+  {
+   "feed": "Nature",
+   "url": "https://www.nature.com/nature.rss",
+   "http": 200,
+   "items_in_feed": 75,
+   "new": 75,
+   "status": "ok"
+  },
+  {
+   "feed": "Nature Communication",
+   "url": "https://www.nature.com/ncomms.rss",
+   "http": 200,
+   "items_in_feed": 8,
+   "new": 8,
+   "status": "ok"
+  },
+  {
+   "feed": "Nature Materials",
+   "url": "https://www.nature.com/nmat.rss",
+   "http": 200,
+   "items_in_feed": 8,
+   "new": 4,
+   "status": "ok"
+  },
+  {
+   "feed": "Nature-Hydrogel",
+   "url": "https://www.nature.com/subjects/gels-and-hydrogels.rss",
+   "http": 200,
+   "items_in_feed": 30,
+   "new": 0,
+   "status": "ok"
+  },
+  {
+   "feed": "Nature Review Materials",
+   "url": "https://www.nature.com/natrevmats.rss",
+   "http": 200,
+   "items_in_feed": 8,
+   "new": 2,
+   "status": "ok"
+  },
+  {
+   "feed": "Science Advances",
+   "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+   "http": 200,
+   "items_in_feed": 41,
+   "new": 41,
+   "status": "ok"
+  },
+  {
+   "feed": "Science-First Release, Latest online",
+   "url": "https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science",
+   "http": 200,
+   "items_in_feed": 13,
+   "new": 1,
+   "status": "ok"
+  },
+  {
+   "feed": "Science-Table of Contents, Latest Journal Issue",
+   "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+   "http": 200,
+   "items_in_feed": 45,
+   "new": 0,
+   "status": "ok"
+  },
+  {
+   "feed": "Progress in Materials Science",
+   "url": "https://rss.sciencedirect.com/publication/science/00796425",
+   "http": 200,
+   "items_in_feed": 43,
+   "new": 0,
+   "status": "ok"
+  },
+  {
+   "feed": "Progress in Polymer Science",
+   "url": "https://rss.sciencedirect.com/publication/science/00796700",
+   "http": 200,
+   "items_in_feed": 11,
+   "new": 0,
+   "status": "ok"
+  },
+  {
+   "feed": "Chemical Reviews",
+   "url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay",
+   "http": 403,
+   "items_in_feed": 6,
+   "new": 6,
+   "status": "crossref-fallback",
+   "note": "HTTP 403 → Crossref by ISSN"
+  },
+  {
+   "feed": "Chemical Society Reviews",
+   "url": "http://feeds.rsc.org/rss/cs",
+   "http": 200,
+   "items_in_feed": 5,
+   "new": 5,
+   "status": "ok"
+  },
+  {
+   "feed": "International Materials Reviews",
+   "url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=inr&type=etoc&feed=rss",
+   "http": 200,
+   "items_in_feed": 16,
+   "new": 0,
+   "status": "ok"
+  }
+ ],
+ "abstract_sources": {
+  "rss": 49,
+  "crossref": 682,
+  "openalex": 20,
+  "rss-short": 90,
+  "none": 2
+ }
+}
