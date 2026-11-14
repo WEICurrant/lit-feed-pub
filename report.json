@@ -1,14 +1,14 @@
 {
- "date": "2026-11-13",
- "generated_at": "2026-11-13T11:11:24-06:00",
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T09:47:10-06:00",
  "bootstrap": false,
  "feeds": [
   {
    "feed": "ACS Applied Materials & Interfaces",
    "url": "https://pubs.acs.org/rss/aamick/asap.xml",
    "http": 200,
-   "items_in_feed": 56,
-   "new": 55,
+   "items_in_feed": 26,
+   "new": 21,
    "status": "ok"
   },
   {
@@ -16,7 +16,7 @@
    "url": "https://pubs.acs.org/rss/mamobx/asap.xml",
    "http": 200,
    "items_in_feed": 11,
-   "new": 7,
+   "new": 0,
    "status": "ok"
   },
   {
@@ -24,7 +24,7 @@
    "url": "https://pubs.acs.org/rss/amlccd/asap.xml",
    "http": 200,
    "items_in_feed": 3,
-   "new": 2,
+   "new": 1,
    "status": "ok"
   },
   {
@@ -32,7 +32,7 @@
    "url": "https://advanced.onlinelibrary.wiley.com/feed/15214095/most-recent",
    "http": 200,
    "items_in_feed": 311,
-   "new": 0,
+   "new": 29,
    "status": "ok"
   },
   {
@@ -40,7 +40,7 @@
    "url": "https://advanced.onlinelibrary.wiley.com/feed/16163028/most-recent",
    "http": 200,
    "items_in_feed": 379,
-   "new": 0,
+   "new": 55,
    "status": "ok"
   },
   {
@@ -48,15 +48,15 @@
    "url": "https://rss.sciencedirect.com/publication/science/25902385",
    "http": 200,
    "items_in_feed": 75,
-   "new": 2,
+   "new": 0,
    "status": "ok"
   },
   {
    "feed": "Materials Today",
    "url": "https://rss.sciencedirect.com/publication/science/13697021",
    "http": 200,
-   "items_in_feed": 28,
-   "new": 0,
+   "items_in_feed": 33,
+   "new": 5,
    "status": "ok"
   },
   {
@@ -71,16 +71,16 @@
    "feed": "Materials Horizons",
    "url": "http://feeds.rsc.org/rss/mh",
    "http": 200,
-   "items_in_feed": 4,
-   "new": 4,
+   "items_in_feed": 2,
+   "new": 1,
    "status": "ok"
   },
   {
    "feed": "JACS",
    "url": "https://pubs.acs.org/rss/jacsat/asap.xml",
    "http": 200,
-   "items_in_feed": 27,
-   "new": 25,
+   "items_in_feed": 23,
+   "new": 21,
    "status": "ok"
   },
   {
@@ -88,30 +88,30 @@
    "url": "https://onlinelibrary.wiley.com/feed/15213773/most-recent",
    "http": 200,
    "items_in_feed": 231,
-   "new": 0,
+   "new": 28,
    "status": "ok"
   },
   {
    "feed": "PNAS-Chemistry",
    "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=chem",
    "http": 200,
-   "items_in_feed": 29,
-   "new": 0,
+   "items_in_feed": 28,
+   "new": 1,
    "status": "ok"
   },
   {
    "feed": "PNAS-Applied Physical Science",
    "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=app-phys",
    "http": 200,
-   "items_in_feed": 25,
-   "new": 0,
+   "items_in_feed": 20,
+   "new": 1,
    "status": "ok"
   },
   {
    "feed": "PNAS-Engineering",
    "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=eng",
    "http": 200,
-   "items_in_feed": 23,
+   "items_in_feed": 20,
    "new": 0,
    "status": "ok"
   },
@@ -120,7 +120,7 @@
    "url": "https://onlinelibrary.wiley.com/feed/16136829/most-recent",
    "http": 200,
    "items_in_feed": 316,
-   "new": 0,
+   "new": 45,
    "status": "ok"
   },
   {
@@ -128,7 +128,7 @@
    "url": "https://www.nature.com/nature.rss",
    "http": 200,
    "items_in_feed": 75,
-   "new": 10,
+   "new": 1,
    "status": "ok"
   },
   {
@@ -167,8 +167,8 @@
    "feed": "Science Advances",
    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
    "http": 200,
-   "items_in_feed": 41,
-   "new": 0,
+   "items_in_feed": 81,
+   "new": 40,
    "status": "ok"
   },
   {
@@ -176,7 +176,7 @@
    "url": "https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science",
    "http": 200,
    "items_in_feed": 17,
-   "new": 5,
+   "new": 0,
    "status": "ok"
   },
   {
@@ -184,14 +184,14 @@
    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
    "http": 200,
    "items_in_feed": 44,
-   "new": 43,
+   "new": 0,
    "status": "ok"
   },
   {
    "feed": "Progress in Materials Science",
    "url": "https://rss.sciencedirect.com/publication/science/00796425",
    "http": 200,
-   "items_in_feed": 24,
+   "items_in_feed": 25,
    "new": 1,
    "status": "ok"
   },
@@ -199,16 +199,16 @@
    "feed": "Progress in Polymer Science",
    "url": "https://rss.sciencedirect.com/publication/science/00796700",
    "http": 200,
-   "items_in_feed": 11,
-   "new": 0,
+   "items_in_feed": 12,
+   "new": 1,
    "status": "ok"
   },
   {
    "feed": "Chemical Reviews",
    "url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay",
    "http": 403,
-   "items_in_feed": 6,
-   "new": 0,
+   "items_in_feed": 7,
+   "new": 1,
    "status": "crossref-fallback",
    "note": "HTTP 403 → Crossref by ISSN"
   },
@@ -230,10 +230,10 @@
   }
  ],
  "abstract_sources": {
-  "rss": 93,
-  "crossref": 25,
-  "openalex": 0,
-  "rss-short": 44,
+  "rss": 43,
+  "crossref": 201,
+  "openalex": 1,
+  "rss-short": 15,
   "none": 0
  }
 }
