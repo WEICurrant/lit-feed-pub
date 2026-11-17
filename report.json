@@ -1,14 +1,14 @@
 {
- "date": "2026-11-15",
- "generated_at": "2026-11-15T10:19:37-06:00",
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T03:15:45-06:00",
  "bootstrap": false,
  "feeds": [
   {
    "feed": "ACS Applied Materials & Interfaces",
    "url": "https://pubs.acs.org/rss/aamick/asap.xml",
    "http": 200,
-   "items_in_feed": 26,
-   "new": 0,
+   "items_in_feed": 40,
+   "new": 33,
    "status": "ok"
   },
   {
@@ -16,7 +16,7 @@
    "url": "https://pubs.acs.org/rss/mamobx/asap.xml",
    "http": 200,
    "items_in_feed": 7,
-   "new": 5,
+   "new": 0,
    "status": "ok"
   },
   {
@@ -32,7 +32,7 @@
    "url": "https://advanced.onlinelibrary.wiley.com/feed/15214095/most-recent",
    "http": 200,
    "items_in_feed": 311,
-   "new": 9,
+   "new": 5,
    "status": "ok"
   },
   {
@@ -40,7 +40,7 @@
    "url": "https://advanced.onlinelibrary.wiley.com/feed/16163028/most-recent",
    "http": 200,
    "items_in_feed": 379,
-   "new": 8,
+   "new": 12,
    "status": "ok"
   },
   {
@@ -55,8 +55,8 @@
    "feed": "Materials Today",
    "url": "https://rss.sciencedirect.com/publication/science/13697021",
    "http": 200,
-   "items_in_feed": 33,
-   "new": 0,
+   "items_in_feed": 37,
+   "new": 4,
    "status": "ok"
   },
   {
@@ -71,24 +71,24 @@
    "feed": "Materials Horizons",
    "url": "http://feeds.rsc.org/rss/mh",
    "http": 200,
-   "items_in_feed": 2,
-   "new": 0,
+   "items_in_feed": 3,
+   "new": 2,
    "status": "ok"
   },
   {
    "feed": "JACS",
    "url": "https://pubs.acs.org/rss/jacsat/asap.xml",
    "http": 200,
-   "items_in_feed": 4,
-   "new": 2,
+   "items_in_feed": 24,
+   "new": 24,
    "status": "ok"
   },
   {
    "feed": "Angewandte Chemie",
    "url": "https://onlinelibrary.wiley.com/feed/15213773/most-recent",
    "http": 200,
-   "items_in_feed": 231,
-   "new": 7,
+   "items_in_feed": 203,
+   "new": 171,
    "status": "ok"
   },
   {
@@ -104,14 +104,14 @@
    "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=app-phys",
    "http": 200,
    "items_in_feed": 20,
-   "new": 0,
+   "new": 1,
    "status": "ok"
   },
   {
    "feed": "PNAS-Engineering",
    "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=eng",
    "http": 200,
-   "items_in_feed": 20,
+   "items_in_feed": 21,
    "new": 1,
    "status": "ok"
   },
@@ -120,7 +120,7 @@
    "url": "https://onlinelibrary.wiley.com/feed/16136829/most-recent",
    "http": 200,
    "items_in_feed": 316,
-   "new": 0,
+   "new": 9,
    "status": "ok"
   },
   {
@@ -128,7 +128,7 @@
    "url": "https://www.nature.com/nature.rss",
    "http": 200,
    "items_in_feed": 75,
-   "new": 0,
+   "new": 11,
    "status": "ok"
   },
   {
@@ -144,7 +144,7 @@
    "url": "https://www.nature.com/nmat.rss",
    "http": 200,
    "items_in_feed": 8,
-   "new": 0,
+   "new": 2,
    "status": "ok"
   },
   {
@@ -152,7 +152,7 @@
    "url": "https://www.nature.com/subjects/gels-and-hydrogels.rss",
    "http": 200,
    "items_in_feed": 30,
-   "new": 0,
+   "new": 1,
    "status": "ok"
   },
   {
@@ -207,7 +207,7 @@
    "feed": "Chemical Reviews",
    "url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay",
    "http": 403,
-   "items_in_feed": 6,
+   "items_in_feed": 1,
    "new": 0,
    "status": "crossref-fallback",
    "note": "HTTP 403 → Crossref by ISSN"
@@ -216,8 +216,8 @@
    "feed": "Chemical Society Reviews",
    "url": "http://feeds.rsc.org/rss/cs",
    "http": 200,
-   "items_in_feed": 5,
-   "new": 0,
+   "items_in_feed": 4,
+   "new": 1,
    "status": "ok"
   },
   {
@@ -230,10 +230,10 @@
   }
  ],
  "abstract_sources": {
-  "rss": 8,
-  "crossref": 27,
-  "openalex": 0,
-  "rss-short": 6,
-  "none": 0
+  "rss": 60,
+  "crossref": 193,
+  "openalex": 6,
+  "rss-short": 26,
+  "none": 1
  }
 }
