@@ -1,22 +1,22 @@
 {
- "date": "2026-11-18",
- "generated_at": "2026-11-18T02:35:35-06:00",
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T11:13:41-06:00",
  "bootstrap": false,
  "feeds": [
   {
    "feed": "ACS Applied Materials & Interfaces",
    "url": "https://pubs.acs.org/rss/aamick/asap.xml",
    "http": 200,
-   "items_in_feed": 20,
-   "new": 15,
+   "items_in_feed": 32,
+   "new": 28,
    "status": "ok"
   },
   {
    "feed": "Macromocules",
    "url": "https://pubs.acs.org/rss/mamobx/asap.xml",
    "http": 200,
-   "items_in_feed": 10,
-   "new": 9,
+   "items_in_feed": 6,
+   "new": 4,
    "status": "ok"
   },
   {
@@ -31,8 +31,8 @@
    "feed": "Advanced Materials",
    "url": "https://advanced.onlinelibrary.wiley.com/feed/15214095/most-recent",
    "http": 200,
-   "items_in_feed": 311,
-   "new": 8,
+   "items_in_feed": 386,
+   "new": 109,
    "status": "ok"
   },
   {
@@ -40,7 +40,7 @@
    "url": "https://advanced.onlinelibrary.wiley.com/feed/16163028/most-recent",
    "http": 200,
    "items_in_feed": 459,
-   "new": 102,
+   "new": 19,
    "status": "ok"
   },
   {
@@ -72,15 +72,15 @@
    "url": "http://feeds.rsc.org/rss/mh",
    "http": 200,
    "items_in_feed": 3,
-   "new": 1,
+   "new": 0,
    "status": "ok"
   },
   {
    "feed": "JACS",
    "url": "https://pubs.acs.org/rss/jacsat/asap.xml",
    "http": 200,
-   "items_in_feed": 18,
-   "new": 17,
+   "items_in_feed": 20,
+   "new": 18,
    "status": "ok"
   },
   {
@@ -88,7 +88,7 @@
    "url": "https://onlinelibrary.wiley.com/feed/15213773/most-recent",
    "http": 200,
    "items_in_feed": 203,
-   "new": 0,
+   "new": 14,
    "status": "ok"
   },
   {
@@ -96,15 +96,15 @@
    "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=chem",
    "http": 200,
    "items_in_feed": 31,
-   "new": 3,
+   "new": 0,
    "status": "ok"
   },
   {
    "feed": "PNAS-Applied Physical Science",
    "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=app-phys",
    "http": 200,
-   "items_in_feed": 20,
-   "new": 0,
+   "items_in_feed": 21,
+   "new": 1,
    "status": "ok"
   },
   {
@@ -119,8 +119,8 @@
    "feed": "Small",
    "url": "https://onlinelibrary.wiley.com/feed/16136829/most-recent",
    "http": 200,
-   "items_in_feed": 316,
-   "new": 14,
+   "items_in_feed": 405,
+   "new": 131,
    "status": "ok"
   },
   {
@@ -128,7 +128,7 @@
    "url": "https://www.nature.com/nature.rss",
    "http": 200,
    "items_in_feed": 75,
-   "new": 16,
+   "new": 58,
    "status": "ok"
   },
   {
@@ -136,7 +136,7 @@
    "url": "https://www.nature.com/ncomms.rss",
    "http": 200,
    "items_in_feed": 8,
-   "new": 7,
+   "new": 8,
    "status": "ok"
   },
   {
@@ -144,7 +144,7 @@
    "url": "https://www.nature.com/nmat.rss",
    "http": 200,
    "items_in_feed": 8,
-   "new": 0,
+   "new": 3,
    "status": "ok"
   },
   {
@@ -152,7 +152,7 @@
    "url": "https://www.nature.com/subjects/gels-and-hydrogels.rss",
    "http": 200,
    "items_in_feed": 30,
-   "new": 0,
+   "new": 2,
    "status": "ok"
   },
   {
@@ -160,15 +160,15 @@
    "url": "https://www.nature.com/natrevmats.rss",
    "http": 200,
    "items_in_feed": 8,
-   "new": 1,
+   "new": 4,
    "status": "ok"
   },
   {
    "feed": "Science Advances",
    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
    "http": 200,
-   "items_in_feed": 81,
-   "new": 0,
+   "items_in_feed": 44,
+   "new": 44,
    "status": "ok"
   },
   {
@@ -191,15 +191,15 @@
    "feed": "Progress in Materials Science",
    "url": "https://rss.sciencedirect.com/publication/science/00796425",
    "http": 200,
-   "items_in_feed": 25,
-   "new": 0,
+   "items_in_feed": 26,
+   "new": 1,
    "status": "ok"
   },
   {
    "feed": "Progress in Polymer Science",
    "url": "https://rss.sciencedirect.com/publication/science/00796700",
    "http": 200,
-   "items_in_feed": 12,
+   "items_in_feed": 7,
    "new": 0,
    "status": "ok"
   },
@@ -207,8 +207,8 @@
    "feed": "Chemical Reviews",
    "url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay",
    "http": 403,
-   "items_in_feed": 1,
-   "new": 1,
+   "items_in_feed": 4,
+   "new": 3,
    "status": "crossref-fallback",
    "note": "HTTP 403 → Crossref by ISSN"
   },
@@ -216,7 +216,7 @@
    "feed": "Chemical Society Reviews",
    "url": "http://feeds.rsc.org/rss/cs",
    "http": 200,
-   "items_in_feed": 3,
+   "items_in_feed": 4,
    "new": 2,
    "status": "ok"
   },
@@ -233,23 +233,23 @@
    "url": "gmail",
    "http": null,
    "status": "ok",
-   "items_in_feed": 35,
-   "new": 33
+   "items_in_feed": 10,
+   "new": 3
   },
   {
    "feed": "Stork 推送",
    "url": "gmail",
    "http": null,
    "status": "ok",
-   "items_in_feed": 7,
-   "new": 5
+   "items_in_feed": 3,
+   "new": 3
   }
  ],
  "abstract_sources": {
-  "rss": 43,
-  "crossref": 134,
+  "rss": 51,
+  "crossref": 330,
   "openalex": 12,
-  "rss-short": 44,
-  "none": 2
+  "rss-short": 62,
+  "none": 1
  }
 }
