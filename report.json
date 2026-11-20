@@ -1,22 +1,22 @@
 {
- "date": "2026-11-19",
- "generated_at": "2026-11-19T11:24:23-06:00",
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T02:36:55-06:00",
  "bootstrap": false,
  "feeds": [
   {
    "feed": "ACS Applied Materials & Interfaces",
    "url": "https://pubs.acs.org/rss/aamick/asap.xml",
    "http": 200,
-   "items_in_feed": 32,
-   "new": 0,
+   "items_in_feed": 28,
+   "new": 18,
    "status": "ok"
   },
   {
    "feed": "Macromocules",
    "url": "https://pubs.acs.org/rss/mamobx/asap.xml",
    "http": 200,
-   "items_in_feed": 6,
-   "new": 0,
+   "items_in_feed": 8,
+   "new": 7,
    "status": "ok"
   },
   {
@@ -71,16 +71,16 @@
    "feed": "Materials Horizons",
    "url": "http://feeds.rsc.org/rss/mh",
    "http": 200,
-   "items_in_feed": 3,
-   "new": 0,
+   "items_in_feed": 2,
+   "new": 1,
    "status": "ok"
   },
   {
    "feed": "JACS",
    "url": "https://pubs.acs.org/rss/jacsat/asap.xml",
    "http": 200,
-   "items_in_feed": 20,
-   "new": 0,
+   "items_in_feed": 18,
+   "new": 17,
    "status": "ok"
   },
   {
@@ -128,7 +128,7 @@
    "url": "https://www.nature.com/nature.rss",
    "http": 200,
    "items_in_feed": 75,
-   "new": 0,
+   "new": 2,
    "status": "ok"
   },
   {
@@ -136,7 +136,7 @@
    "url": "https://www.nature.com/ncomms.rss",
    "http": 200,
    "items_in_feed": 8,
-   "new": 0,
+   "new": 6,
    "status": "ok"
   },
   {
@@ -175,16 +175,16 @@
    "feed": "Science-First Release, Latest online",
    "url": "https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science",
    "http": 200,
-   "items_in_feed": 17,
-   "new": 0,
+   "items_in_feed": 19,
+   "new": 3,
    "status": "ok"
   },
   {
    "feed": "Science-Table of Contents, Latest Journal Issue",
    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
    "http": 200,
-   "items_in_feed": 44,
-   "new": 0,
+   "items_in_feed": 35,
+   "new": 34,
    "status": "ok"
   },
   {
@@ -207,8 +207,8 @@
    "feed": "Chemical Reviews",
    "url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay",
    "http": 403,
-   "items_in_feed": 4,
-   "new": 0,
+   "items_in_feed": 7,
+   "new": 3,
    "status": "crossref-fallback",
    "note": "HTTP 403 → Crossref by ISSN"
   },
@@ -216,8 +216,8 @@
    "feed": "Chemical Society Reviews",
    "url": "http://feeds.rsc.org/rss/cs",
    "http": 200,
-   "items_in_feed": 4,
-   "new": 0,
+   "items_in_feed": 6,
+   "new": 4,
    "status": "ok"
   },
   {
@@ -230,10 +230,10 @@
   }
  ],
  "abstract_sources": {
-  "rss": 0,
-  "crossref": 0,
+  "rss": 44,
+  "crossref": 23,
   "openalex": 0,
-  "rss-short": 0,
-  "none": 0
+  "rss-short": 26,
+  "none": 2
  }
 }
